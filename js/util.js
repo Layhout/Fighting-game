@@ -28,3 +28,5 @@ function decreaseTimer() {
         determineWinner({ player, enemy, timer });
     }
 }
+
+console.log();
